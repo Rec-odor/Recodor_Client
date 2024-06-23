@@ -1,0 +1,132 @@
+[
+    {
+        "questionId" : 0,
+        "questionText" : "다음 이미지 중에서 가장 마음에 드는 이미지를 골라주세요.",
+        "answerType" : "img",
+        "answers" : [
+            {
+                "answerId" : 0,
+                "answerImg" : "/img/flowers.jpg",
+                "answerImgAlt" : "꽃밭 사진"
+
+            },
+            {
+                "answerId" : 1,
+                "answerImg" : "/img/oranges.jpg",
+                "answerImgAlt" : "오렌지 나무 사진"
+            },
+            {
+                "answerId" : 2,
+                "answerImg" : "/img/oriental.jpg",
+                "answerImgAlt" : "바닐라빈 혹은 계피 사진"
+            },
+            {
+                "answerId" : 3,
+                "answerImg" : "/img/wood.jpg",
+                "answerImgAlt" : "나무가 가득한 거리 사진"
+            }
+        ] 
+    },
+    {
+        "questionId" : 1,
+        "questionText" : "다음 이미지 중에서 두번째로 마음에 드는 이미지를 골라주세요.",
+        "answerType" : "img",
+        "answers" : [
+            {
+                "answerId" : 0,
+                "answerImg" : "/img/flowers.jpg",
+                "answerImgAlt" : "꽃밭 사진"
+
+            },
+            {
+                "answerId" : 1,
+                "answerImg" : "/img/oranges.jpg",
+                "answerImgAlt" : "오렌지 나무 사진"
+            },
+            {
+                "answerId" : 2,
+                "answerImg" : "/img/oriental.jpg",
+                "answerImgAlt" : "바닐라빈 혹은 계피 사진"
+            },
+            {
+                "answerId" : 3,
+                "answerImg" : "/img/wood.jpg",
+                "answerImgAlt" : "나무가 가득한 거리 사진"
+            }
+        ] 
+    },
+    {
+        "questionId" : 2,
+        "questionText" : "다음 형용사 중에서 가장 끌리는 단어를 골라주세요.",
+        "answerType" : "text",
+        "answers" : [
+            {
+                "answerId" : 0,
+                "answerText" : "달달하다"
+
+            },
+            {
+                "answerId" : 1,
+                "answerText" : "묵직하다"
+
+            },
+            {
+                "answerId" : 2,
+                "answerText" : "상큼하다"
+
+            },
+            {
+                "answerId" : 3,
+                "answerText" : "산뜻하다"
+
+            },
+            {
+                "answerId" :4,
+                "answerText" : "스모키하다"
+
+            },
+            {
+                "answerId" : 5,
+                "answerText" : "성숙하다"
+
+            }
+        ] 
+    },
+    {
+        "questionId" : 3,
+        "questionText" : "다음 형용사 중에서 두번째로 끌리는 단어를 골라주세요.",
+        "answerType" : "text",
+        "answers" : [
+            {
+                "answerId" : 0,
+                "answerText" : "달달하다"
+
+            },
+            {
+                "answerId" : 1,
+                "answerText" : "묵직하다"
+
+            },
+            {
+                "answerId" : 2,
+                "answerText" : "상큼하다"
+
+            },
+            {
+                "answerId" : 3,
+                "answerText" : "산뜻하다"
+
+            },
+            {
+                "answerId" :4,
+                "answerText" : "스모키하다"
+
+            },
+            {
+                "answerId" : 5,
+                "answerText" : "성숙하다"
+
+            }
+        ]
+    }
+]
